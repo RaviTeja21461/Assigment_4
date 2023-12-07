@@ -1,0 +1,11 @@
+document_id,clean_text,sentiment
+1,This movie was fantastic!,positive
+2,The product didn't meet my expectations.,negative
+3,I love the new features of the app.,positive
+4,The service was terrible.,negative
+5,The weather today is okay.,neutral
+6,The quality of the product is outstanding.,positive
+7,I'm not happy with the customer support.,negative
+8,Just received my order. It's exactly what I wanted!,positive
+9,The food at the restaurant was mediocre.,neutral
+10,I can't recommend this product.,negative
